@@ -1,4 +1,4 @@
-# 📄 Carta de Presentación - Gabriel Millan
+# 📄 Carta de Presentación - Juster
 
 Este proyecto es una página web personal desarrollada con **HTML** y **CSS**, diseñada como una carta de presentación profesional.  
 El objetivo es mostrar información personal, habilidades y enlaces de contacto en un formato moderno y responsive.
